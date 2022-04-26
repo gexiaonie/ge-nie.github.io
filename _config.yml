@@ -104,6 +104,6 @@ theme: butterfly
 
 deploy:
   type: git
-  repo: https://github.com/ge-nie/ge-nie.github.io
+  repo: git@github.com:ge-nie/ge-nie.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: deploy
