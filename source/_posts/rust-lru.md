@@ -3,7 +3,6 @@ title: Rust LRU
 date: 2022-04-25 19:39:53
 tags: Rust
 cover: https://www.rust-lang.org/static/images/rust-logo-blk.svg
-top_img: images/Rocket.png
 categories: Rust
 ---
 
