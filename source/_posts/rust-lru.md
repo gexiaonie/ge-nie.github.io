@@ -1,9 +1,9 @@
 ---
 title: Rust LRU
 date: 2022-04-25 19:39:53
-tags: Rust
+tags: [Rust,Algorithm]
 cover: https://www.rust-lang.org/static/images/rust-logo-blk.svg
-categories: Rust, Alogrithm
+categories: Rust
 ---
 
 # 前言
