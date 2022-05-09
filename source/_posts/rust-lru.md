@@ -3,7 +3,7 @@ title: Rust LRU
 date: 2022-04-25 19:39:53
 tags: Rust
 cover: https://www.rust-lang.org/static/images/rust-logo-blk.svg
-categories: Rust
+categories: Rust, Alogrithm
 ---
 
 # 前言
