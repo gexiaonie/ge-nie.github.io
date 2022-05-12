@@ -770,7 +770,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -827,6 +827,16 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
+    <div class="aplayer no-destroy"
+     data-id="8326272195"
+     data-server="tencent"
+     data-order="random"
+     data-mini="true"
+     data-lrctype="false" 
+     data-preload="false"
+     data-type="playlist" 
+     data-fixed="true" 
+     data-autoplay="false"> </div>
 
 # CDN
 # Don't modify the following settings unless you know how they work

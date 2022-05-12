@@ -102,6 +102,10 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 
+aplayer:
+  meting: true
+  asset_inject: true
+
 deploy:
   type: git
   repo: git@github.com:ge-nie/ge-nie.github.io.git
